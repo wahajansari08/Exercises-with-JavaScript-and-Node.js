@@ -3,12 +3,10 @@
 
  */
 
-let Lists = [
-  ["K2", "Denali", "Nanga Parbat"],
-  ["Indus River", "Nile", "Sindh River"],
-  ["Pakistan", "China", "Nepal"],
-  ["Karachi", "Lahore", "Islamabad"],
-  ["Urdu", "English", "Arabic"],
-  ["Cow", "Cat", "Dog"],
-];
-console.log(Lists);
+let countries = [];
+countries[0] = "Pakistan";
+countries[1] = "Nepal";
+countries[2] = "Qatar";
+countries[3] = "Japan";
+
+console.log(countries);
